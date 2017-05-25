@@ -2,7 +2,7 @@
   "status": 200,
   "force": 1,
   "video": {
-    "name": "Quake4",
+    "name": "Quake4.mp4",
     "url": "https://ia800206.us.archive.org/24/items/Quake4_20954/Quake4_20954_h264_part01_512kb.mp4"
   }
 }
