@@ -2,16 +2,16 @@
   "status": 200,
   "videos": [
     {
-      "name": "Quake4.mp4",
-      "url": "https://ia800206.us.archive.org/24/items/Quake4_20954/Quake4_20954_h264_part01_512kb.mp4"
+      "name": "Sharp.mp4",
+      "url": "http://demo-uhd3d.com/files/uhd4k/Sharp_4K_Italia_Parasols.mp4"
     },
     {
-      "name": "Hitman.mp4",
-      "url": "https://ia800204.us.archive.org/14/items/HitmanContracts_IL_3823/HitmanContracts_lv01_150_512kb.mp4"
+      "name": "Sony.mp4",
+      "url": "http://demo-uhd3d.com/files/uhd4k/Sony_4K_Camp.mp4"
     },
     {
-      "name": "SplinterCell.mp4",
-      "url": "https://ia800208.us.archive.org/14/items/SplinterCell_PC_13500/SplinterCell_PC_13500_Bloopers_512kb.mp4"
+      "name": "World.mkv",
+      "url": "http://demo-uhd3d.com/files/uhd4k/The_World_in_HDR_in_4K_HDR10.mkv"
     }
   ]
 }
