@@ -2,16 +2,16 @@
   "status": 200,
   "videos": [
     {
-      "name": "Sharp.mp4",
-      "url": "http://demo-uhd3d.com/files/uhd4k/Sharp_4K_Italia_Parasols.mp4"
+      "name": "Promo.mp4",
+      "url": "https://ia801301.us.archive.org/15/items/NASA-Ultra-High-Definition/4K%20YouTube%20Promo.mp4"
     },
     {
-      "name": "Sony.mp4",
-      "url": "http://demo-uhd3d.com/files/uhd4k/Sony_4K_Camp.mp4"
+      "name": "Station.mp4",
+      "url": "https://ia801301.us.archive.org/15/items/NASA-Ultra-High-Definition/Space-Station-Fisheye-Fly-Through-4K_Ultra-HD.mp4"
     },
     {
-      "name": "World.mkv",
-      "url": "http://demo-uhd3d.com/files/uhd4k/The_World_in_HDR_in_4K_HDR10.mkv"
+      "name": "Hatch.mp4",
+      "url": "https://ia801301.us.archive.org/15/items/NASA-Ultra-High-Definition/47%20Hatch%20opening.mp4"
     }
   ]
 }
